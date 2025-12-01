@@ -1,0 +1,12 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"id":	"FCBDE5B1-8809-49E2-A356-F94E9C24FAD8",
+	"author":	"Ed Johnson",
+	"description":	{
+		"":	"A Fusion script that imports HEX or RGB colors from a CSV file to create and add custom color appearances to the current design."
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"iconFilename": "PaletteLoaderAppIcon.png"
+}
