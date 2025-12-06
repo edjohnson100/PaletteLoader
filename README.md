@@ -1,6 +1,8 @@
 # PaletteLoader
 ### Batch import custom colors into Fusion from a CSV file.
 
+<img src="PaletteLoaderAppIcon.png" alt="Palette Loader App Icon" width="300">
+
 **Introduction: The "Why" and "What"**
 Creating custom appearances in Fusion one by one is a slow process—especially if you have a specific palette of manufacturer colors or filaments you want to visualize. **PaletteLoader** is a simple utility designed to automate this workflow. It reads a CSV list of color data (Hex or RGB), duplicates a base material, and creates a new named appearance for every row in your spreadsheet. As a bonus, if you have a 3D body in your design, it creates a "visual preview" loop, applying each color for half a second so you can see them in action.
 
