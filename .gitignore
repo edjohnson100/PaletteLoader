@@ -34,8 +34,17 @@ Desktop.ini
 # Ignore the folder where Inno Setup puts the compiled EXE
 Output/
 
-# Ignore your manual "Installers" folder if you use Releases
-Installers/
+# Allow the "Installers" folder itself...
+!Installers/
+
+# ...but ignore the specific binary files INSIDE it.
+Installers/*.exe
+Installers/*.msi
+Installers/*.pkg
+Installers/*.dmg
+Installers/*.zip
+Installers/*.wixpdb
+Installers/Output/
 
 # Ignore compiled binaries just in case they slip into other folders
 *.exe
