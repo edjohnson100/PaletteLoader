@@ -76,5 +76,5 @@ Thank you for ensuring I maintained healthy circulation by interrupting my deep 
 
 **License:** Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
-Happy Making!
+Happy Making!  
 — EdJ
