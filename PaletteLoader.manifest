@@ -3,7 +3,9 @@
 	"type": "script",
 	"id": "FCBDE5B1-8809-49E2-A356-F94E9C24FAD8",
 	"author": "Ed Johnson - Making With An EdJ",
-	"description": "Bulk import custom appearances from CSV files using Hex or RGB values. | Key Features: Auto-converts Hex strings to Fusion colors, adds new appearances to Favorites, and performs a live visual preview on the active body during import. | Context: Material library management and color visualization.",
+	"description":"description":	{
+		"":	 "Bulk import custom appearances from CSV files using Hex or RGB values. | Key Features: Auto-converts Hex strings to Fusion colors, adds new appearances to Favorites, and performs a live visual preview on the active body during import. | Context: Material library management and color visualization."
+	},
 	"version": "1.2.0",
 	"supportedOS": "windows|mac",
 	"editEnabled": true,
